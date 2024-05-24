@@ -25,3 +25,8 @@ li{
 li:hover{ 
   background:#042511;
 }
+
+
+a{ text-decoration: none;
+  color: #020202;
+ }
