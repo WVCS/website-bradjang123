@@ -1,4 +1,11 @@
 body {
+  background-color: #4A7856;
+}
+h1{ 
+color: #020202;
+}
+
+
 nav {
   list-style-type: none;
   background-color: #0D2818;
@@ -6,7 +13,7 @@ nav {
   width: 100vw;
   top: 0;
   left: 0;
-  color: #37A965;
+  color: #4A7856;
   padding: 12px;
 }
 
@@ -14,12 +21,7 @@ li{
   display: inline;
   padding: 16px;
 }
+
 li:hover{ 
   background:#042511;
-}
-a {
-  text-decoration: none;
-  color: #37A965;
-}
-  
 }
