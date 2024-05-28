@@ -1,0 +1,18 @@
+<html>
+  
+  <head>
+  </head>
+  
+  <body>
+    <nav>
+  <li> Home </li>
+  <li> Data App </li>
+  <li> Digital Design </li>
+  
+</nav>
+    <center>
+      <br>
+      <br>
+      <h1> NFL Random Team Generator</h1>
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/TPpyA4O3sXo73PIoXEl0iG1MEsN---0VhYjuY060dm2/embed?nosource"></iframe>
+    </h1>
